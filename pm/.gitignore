@@ -1,0 +1,10 @@
+# Models (uploaded to HuggingFace, not GitHub)
+models/
+*.joblib
+
+# Local data artifacts
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
